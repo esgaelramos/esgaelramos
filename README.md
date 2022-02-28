@@ -1,13 +1,17 @@
 # Hi there 👋
-Lrem fjsd e fsdf e fjdsl fefjesfsif iefhsanfsdfjs fe sjfsdfsdfj fjei sfjs jfaskflñu fskjf sfurhif fkeifs.
+I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises and practice.
+## 👨‍💻 | Web Development
+### 🐍 | Backend Python
+Python 3.8  | Django 4 | Django Rest Framework <br>
+PSQL | MySQL | SQLite <br>
+GIT | VSCODE | LINUX
+### 🍼 | Frontend Baby
+HTML | CSS | VUEJS <br>
+JAVASCRIPT VAINILLA
 
-## 🤔 | Web Development
 
-
-## 🤔 | Artificial Intelligence
-
-
-## 🤔 | MyBlog Articles
+## 🤔 | About Me
+Text me:)
 
 
 <!--
