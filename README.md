@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 # 🤔 | Programming
 
 -->
-GIT
-DOCKER
-VSCODE
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
