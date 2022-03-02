@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises and practice.
 
-## 🐍 | Development Backend | Python
+## 🐍 | Development Backend 
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PYTHON.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DJANGO.svg"></code>
 <code><img width="120" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/rest.png"></code> 
@@ -12,6 +12,7 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DATABASE.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PSQL.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/MYSQL.svg"></code>
+
 ### ⚙ | Tools
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/GIT.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/vscode.png"></code>
@@ -28,8 +29,16 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 ## 🤔 | About Me
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/github.svg">](https://github.com/esgaelramos)</code>
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/cv.svg">](https://esgaelramos.xyz/assets/CV-Gael-Ramos-Backend.pdf)</code>
-<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/mail.svg">](tomail:esgaelramos@gmail.com)</code>
+### 🖱 | My Personal | Web Site 
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://esgaelramos.xyz)</code>
+### 📁 | CV-PROPIO | Web Site 
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://cvpropio.com)</code>
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
 
 
 <!--
