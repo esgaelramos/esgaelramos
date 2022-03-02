@@ -13,6 +13,7 @@ JAVASCRIPT VAINILLA
 ## 🤔 | About Me
 Text me:)
 
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/x.svg"></code>
 
 <!--
 **esgaelramos/esgaelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
