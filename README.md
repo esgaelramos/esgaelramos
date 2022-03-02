@@ -1,19 +1,36 @@
 # Hi there 👋
 I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises and practice.
-## 👨‍💻 | Web Development
-### 🐍 | Backend Python
-Python 3.8  | Django 4 | Django Rest Framework <br>
-PSQL | MySQL | SQLite <br>
-GIT | VSCODE | LINUX
-### 🍼 | Frontend Baby
-HTML | CSS | VUEJS <br>
-JAVASCRIPT VAINILLA
 
+## 🐍 | Development Backend | Python
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PYTHON.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DJANGO.svg"></code>
+<code><img width="120" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/rest.png"></code> 
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/API'S.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/http.png"></code>
+
+### 💾 | Relational Databases
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DATABASE.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PSQL.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/MYSQL.svg"></code>
+### ⚙ | Tools
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/GIT.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/vscode.png"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/LINUX.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DOCKER.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/kuber.png"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/vim.png"></code>
+
+### 🍼 | Frontend Baby
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/HTML.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/CSS.svg"></code>
+<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/JS.svg"></code>
 
 ## 🤔 | About Me
-Text me:)
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/github.svg">](https://github.com/esgaelramos)</code>
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/cv.svg">](https://esgaelramos.xyz/assets/CV-Gael-Ramos-Backend.pdf)</code>
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/mail.svg">](tomail:esgaelramos@gmail.com)</code>
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://esgaelramos.xyz)</code>
 
-<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/x.svg"></code>
 
 <!--
 **esgaelramos/esgaelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 🤔 | Programming
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
 
 -->
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
