@@ -30,7 +30,7 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/github.svg">](https://github.com/esgaelramos)</code>
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/cv.svg">](https://esgaelramos.xyz/assets/CV-Gael-Ramos-Backend.pdf)</code>
 ### 🖱 | My Personal | Web Site 
-<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://esgaelramos.xyz)</code>
+<code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/assets/x.svg">](https://esgaelramos.xyz)</code>
 ### 📁 | CV-PROPIO | Web Site 
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://cvpropio.com)</code>
 
