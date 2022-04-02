@@ -9,7 +9,6 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/http.png"></code>
 
 ### 💾 | Relational Databases
-<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DATABASE.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PSQL.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/MYSQL.svg"></code>
 
@@ -18,7 +17,6 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/vscode.png"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/LINUX.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DOCKER.svg"></code>
-<code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/kuber.png"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/vim.png"></code>
 
 ### 🍼 | Frontend Baby
@@ -33,13 +31,6 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/assets/x.svg">](https://esgaelramos.xyz)</code>
 ### 📁 | CV-PROPIO | Web Site 
 <code>[<img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/myweb.png">](https://cvpropio.com)</code>
-
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-
-
 
 <!--
 **esgaelramos/esgaelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
