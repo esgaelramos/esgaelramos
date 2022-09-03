@@ -4,7 +4,6 @@ I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises a
 ## 🐍 | Development Backend 
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PYTHON.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/DJANGO.svg"></code>
-<code><img width="120" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/rest.png"></code> 
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/API'S.svg"></code>
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/http.png"></code>
 
