@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises and practice.
+I'm Gael Ramos, Welcome to my GitHub, place of my personal projects, exercises and practice. TODO: UPDATE ALL! HAHA :)
 
 ## 🐍 | Development Backend 
 <code><img width="70" src="https://raw.githubusercontent.com/esgaelramos/esgaelramos/main/PYTHON.svg"></code>
