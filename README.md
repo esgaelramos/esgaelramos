@@ -1,7 +1,7 @@
 ## Hey! It's me, Gael! 🦣
 Welcome to my GitHub, place of my personal projects, exercises and practice. 
 + 🇲🇽 Python Full Bad Developer
-+ 🚀 Working on [GIRA EDUCATION](https://girauni.com/) 
++ 🚀 Working on [GIRA EDUCATION](https://giraprepa.com/) 
 + 🌱 In love with community
 + 🌐 More About Me! [esGaelRamos](https://esgaelramos.github.io/) 
 
